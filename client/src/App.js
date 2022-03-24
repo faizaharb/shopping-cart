@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
 
 export default function App() {
@@ -7,9 +8,7 @@ export default function App() {
       <div className="layOut">
         <Header />
         <main>main</main>
-        <footer>
-          <h4>footer</h4>
-        </footer>
+        <Footer />
       </div>
     </>
   );
