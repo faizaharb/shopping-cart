@@ -1,34 +1,34 @@
 [
   {
     "id":"id1",
-    "title":"product1",
-    "imgUrl":"../public/images/download.jpg",
+    "title":"product (1)",
+    "imgUrl":"/images/download.jpg",
     "description":"product description",
-    "price":["low" , "medium"],
+    "price":30,
     "size":["small" , "medium"]
   },
   {
     "id":"id2",
-    "title":"product2",
-    "imgUrl":"../public/images/download (1).jpg",
+    "title":"product (2)",
+    "imgUrl":"/images/download (1).jpg",
     "description":"product description",
-    "price":["low" , "high"],
+    "price":70,
     "size":["small" , "larg"]
   },
   {
     "id":"id3",
-    "title":"product3",
-    "imgUrl":"../public/images/images.jpg",
+    "title":"product (3)",
+    "imgUrl":"/images/images.jpg",
     "description":"product description",
-    "price":[ "medium"],
+    "price":50,
     "size":[ "medium" , "larg"]
   },
   {
     "id":"id4",
-    "title":"product4",
-    "imgUrl":"../public/images/download (2).jpg",
+    "title":"product (4)",
+    "imgUrl":"/images/download (2).jpg",
     "description":"product description",
-    "price":["medium" , "high"],
+    "price":40,
     "size":[ "larg"]
   }
 ]
