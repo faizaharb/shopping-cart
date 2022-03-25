@@ -21,3 +21,16 @@
 main {
   grid-area: main;
 }
+
+.mainSec {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mainSec .productInfo {
+  width: 67%;
+}
+
+.mainSec .filterInfo {
+  width: 30%;
+}
