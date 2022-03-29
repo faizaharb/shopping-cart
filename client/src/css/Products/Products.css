@@ -8,6 +8,7 @@
   width: 23.75%;
 }
 .productInfo .productItem .productImg {
+  cursor: pointer;
   height: 50%;
 }
 .productInfo .productItem .productImg img {
