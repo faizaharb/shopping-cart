@@ -13,7 +13,7 @@
     "imgUrl":"/images/download (1).jpg",
     "description":"product description",
     "price":70,
-    "size":["small" , "larg"]
+    "size":["small" , "large"]
   },
   {
     "id":"id3",
@@ -21,7 +21,7 @@
     "imgUrl":"/images/images.jpg",
     "description":"product description",
     "price":50,
-    "size":[ "medium" , "larg"]
+    "size":[ "medium" , "large"]
   },
   {
     "id":"id4",
@@ -29,6 +29,6 @@
     "imgUrl":"/images/download (2).jpg",
     "description":"product description",
     "price":40,
-    "size":[ "larg"]
+    "size":[ "large"]
   }
 ]

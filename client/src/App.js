@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Filter from "./Components/Filter/Filter";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
 import Products from "./Components/Products/Products";
@@ -14,7 +15,7 @@ export default function App() {
         <main>
           <div className="mainSec">
             <Products products={products} />
-            <div className="filterInfo">filter</div>
+            <Filter />
           </div>
         </main>
         <Footer />

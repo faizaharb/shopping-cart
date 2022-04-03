@@ -6,8 +6,8 @@ export default function ProductModal(props) {
   const { product, closeDetails } = props;
   return (
     <Modal isOpen={product} onRequestClose={closeDetails}>
-      <span onClick={closeDetails}>
-        <i class="fa-solid fa-xmark"></i>
+      <span className="closeBtn" onClick={closeDetails}>
+        <i className="fa-solid fa-xmark"></i>
       </span>
       <div className="productDetail">
         <div className="productimage">
