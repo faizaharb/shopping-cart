@@ -1,0 +1,32 @@
+.filterInfo {
+  margin: 6% 3%;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+.filterInfo h2 {
+  padding: 15px;
+  margin-bottom: 20px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  background: #2a5ea5;
+  color: #fff;
+}
+.filterInfo .filterContent {
+  margin: 0 15px;
+  padding: 15px;
+}
+.filterInfo .filterContent > h5 {
+  margin-bottom: 30px;
+}
+.filterInfo .filterContent .filterBySize {
+  margin: 15px 0;
+}
+.filterInfo .filterContent select {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}
